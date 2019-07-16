@@ -1,0 +1,56 @@
+date=05012018
+
+[plsqldev.exe]
+Version=12.0.7.1837
+WhatsNew=https://www.allroundautomations.com/registered/pls1207.txt
+Download=http://files.allroundautomations.com/plsqldev1207x32.msi
+Update=
+
+
+[RedGate.dll]
+Version=1.3.0.0
+ReleaseDate=
+WhatsNew=Compatibility with PL/SQL Developer 12.0
+Download=http://www.allroundautomations.com/download/RedGate130x32.exe
+
+
+[plsqldoc.dll]
+Version=1.3.0.0
+ReleaseDate=
+WhatsNew=Compatibility with PL/SQL Developer 12.0
+Download=http://www.allroundautomations.com/download/plsqldoc130x32.exe
+
+
+[vcs.dll]
+Version=1.2.6.0
+ReleaseDate=
+WhatsNew=Compatibility with PL/SQL Developer 12.0 
+Download=http://www.allroundautomations.com/download/VCS126x32.exe
+
+
+[ftp.dll]
+Version=2.3.1.0
+ReleaseDate=
+WhatsNew=Fix: Opening a file over an SFTP connection could lead to a "cannot get file size" error
+Download=http://www.allroundautomations.com/download/FTP231x32.exe
+
+
+[activequerybuilder.dll]
+Version=1.4.1.0
+ReleaseDate=
+WhatsNew=Compatibility with PL/SQL Developer 12.0 
+Download=http://www.allroundautomations.com/download/ActiveQueryBuilder141x32.exe
+
+
+[wrap.dll]
+Version=1.1.0.0
+ReleaseDate=
+WhatsNew=Compatibility with PL/SQL Developer 12.0
+Download=http://www.allroundautomations.com/download/Wrap110x32.exe
+
+
+[HighLighting.dll]
+Version=1.2.0.0
+ReleaseDate=
+WhatsNew=Compatibility with PL/SQL Developer 12.0
+Download=http://www.allroundautomations.com/download/HighLighting120x32.exe
