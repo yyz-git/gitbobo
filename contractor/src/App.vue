@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  name: 'App'
+  name: '吃撒法大苏打App'
 }
 </script>
 
